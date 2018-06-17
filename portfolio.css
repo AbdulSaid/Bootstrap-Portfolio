@@ -1,0 +1,51 @@
+.con23{
+  background: grey;
+  border-radius: 5px;
+  padding: 30px;
+}
+
+.navbar-brand{
+  background-color: rgb(255, 193, 112);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.nav-link {
+  background-color: rgb(255, 193, 112);
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.display-3 {
+  color: rgb(255, 193, 112);
+}
+
+.img-fluid {
+  vertical-align: middle;
+  border-style: solid;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.hangman, .rpggame, .trivia, .riw, .rps {
+  background-color: rgb(255, 193, 112);
+  padding: 10px;
+  text-align: center;
+
+}
+
+.hang1, .rpg1, .triv1, .riw1,.rps1 {
+  position: relative;
+  display: inline;
+}
+
+.hangman, .rpggame, .trivia, .riw, .rps {
+  position: absolute;
+  top: 278px;
+  right: 9px;
+  color: white;
+  z-index: 1;
+  width: 333px;
+}
+
