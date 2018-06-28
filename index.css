@@ -1,10 +1,10 @@
-.con23{
+.con23 {
   background: grey;
   border-radius: 5px;
   padding: 30px;
 }
 
-.navbar-brand{
+.navbar-brand {
   background-color: rgb(255, 193, 112);
   padding: 10px;
   border-radius: 5px;
@@ -17,6 +17,6 @@
   margin: 5px;
 }
 
-.display-3{
+.display-3 {
   color: rgb(255, 193, 112);
 }
